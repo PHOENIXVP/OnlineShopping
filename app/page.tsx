@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Home Page changes</title>
+        <title>Home Page</title>
       </Head>
       <h1>Welcome to our site</h1>
       <Link href="/about">About</Link>
