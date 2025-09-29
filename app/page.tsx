@@ -7,7 +7,8 @@ export default function Home() {
       <Head>
         <title>Home Page</title>
       </Head>
-      <h1>Welcome to our site</h1>
+
+      <h1>Welcome to our site ch</h1>
       <Link href="/about">About</Link>
     </div>
   );
